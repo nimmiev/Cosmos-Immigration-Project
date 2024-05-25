@@ -1,7 +1,9 @@
 # Cosmos-Immigration-Project
 CMS Featured PHP Website summary
 
-live wesite link : https://cosmosimmigration.in
+live website link : https://cosmosimmigration.in
+
+Tools: Core PHP, MySQL, HTML, CSS, Javascript, Ajax, Jquery
 
 ### **Website Feature List for Cosmos Immigration**
 
